@@ -1,0 +1,16 @@
+langchain-core
+langchain-openai
+langgraph
+langgraph-checkpoint-sqlite
+crewai
+# MCP (Model Context Protocol)
+mcp
+langchain-mcp-adapters
+
+# Observability
+langsmith
+
+# Утиліти та тестування
+pydantic>=2.0
+pytest
+python-dotenv
